@@ -1,4 +1,4 @@
-# Product Performance & Returns Analysis
+# Product Performance & Returns Analysis (Power BI)
 
 ## Project Overview
 This Power BI dashboard analyzes product sales performance, units sold,
